@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.0/spoo_0.1.0_windows_amd64.zip",
+            "bin": [
+                "spoo.exe"
+            ],
+            "hash": "8c2ab62167346651abbeb71eb4ffc73b47f0f5c8a70b99011e19b72d8381b83b"
+        },
+        "arm64": {
+            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.0/spoo_0.1.0_windows_arm64.zip",
+            "bin": [
+                "spoo.exe"
+            ],
+            "hash": "a567ced079df32b2b1f30b03f2d8bf2b5d25fd9b5f0ddef33982812b03174141"
+        }
+    },
+    "homepage": "https://spoo.me",
+    "license": "Apache-2.0",
+    "description": "The official command-line client for spoo.me"
+}
