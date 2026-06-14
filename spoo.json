@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.0/spoo_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.1/spoo_0.1.1_windows_amd64.zip",
             "bin": [
                 "spoo.exe"
             ],
-            "hash": "8c2ab62167346651abbeb71eb4ffc73b47f0f5c8a70b99011e19b72d8381b83b"
+            "hash": "c90f44364f9e5c2e4e6cc750d4b6d812614e67e93b5a36b76b16e5a1c36c86e9"
         },
         "arm64": {
-            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.0/spoo_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/spoo-me/spoo-cli/releases/download/v0.1.1/spoo_0.1.1_windows_arm64.zip",
             "bin": [
                 "spoo.exe"
             ],
-            "hash": "a567ced079df32b2b1f30b03f2d8bf2b5d25fd9b5f0ddef33982812b03174141"
+            "hash": "5739ff07ae16f1a24e2feffb1ebcc1a58a20c9582efedf942b0ee87ad09f4781"
         }
     },
     "homepage": "https://spoo.me",
